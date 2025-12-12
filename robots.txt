@@ -1,8 +1,9 @@
 User-agent: *
-Disallow: /css/
+Disallow: /css/style.css/
 Disallow: /js/
 Disallow: /images/
 Disallow: /admin/
 Allow: /
+
 
 Sitemap: https://kshvlkv.github.io/seo-project/sitemap.xml
